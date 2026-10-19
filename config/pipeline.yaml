@@ -1,0 +1,5 @@
+app_name: spark-medallion-data-pipeline
+source_path: data/raw/orders.csv
+lake_root: data/lake
+shuffle_partitions: 4
+min_order_amount: 0.01

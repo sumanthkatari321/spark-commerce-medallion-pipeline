@@ -1,0 +1,8 @@
+order_id,customer_id,order_timestamp,product_category,quantity,unit_price,currency,status
+1001,C001,2026-10-01T09:15:00Z,Electronics,1,799.99,USD,completed
+1002,C002,2026-10-01T10:22:00Z,Books,2,18.50,USD,completed
+1003,C003,2026-10-01T11:06:00Z,Home,1,0.00,USD,completed
+1004,C001,2026-10-02T08:40:00Z,Electronics,1,199.99,USD,completed
+1005,C004,2026-10-02T14:05:00Z,Apparel,3,34.25,USD,cancelled
+1006,C005,2026-10-02T16:18:00Z,Books,1,24.00,USD,completed
+1006,C005,2026-10-02T16:18:00Z,Books,1,24.00,USD,completed
